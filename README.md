@@ -39,3 +39,31 @@ For Software:
 git clone https://github.com/yourusername/mood-menu.git
 cd mood-menu
 npm install
+`````
+### Project Documentation
+For Software:
+
+# Screenshots (Add at least 3)
+<img width="1298" height="789" alt="image" src="https://github.com/user-attachments/assets/44dad72d-cc3e-4745-84df-b65c0ead8e79" />
+
+<img width="1877" height="920" alt="image" src="https://github.com/user-attachments/assets/e49401b7-7288-44d3-aa31-ff8ce4c11207" />
+
+
+<img width="1900" height="924" alt="image" src="https://github.com/user-attachments/assets/28ac998b-ae45-490a-b576-c1c274001d39" />
+
+
+### Project Demo
+# Video
+video link ---  https://drive.google.com/file/d/1F1ULf82afHXAjXRTTI0bHfDpEiBisBt4/view?usp=drive_link
+
+# Team Contributions
+- Sanjay K P: UI/UX part
+- Thrisha K : Developing the server
+
+
+---
+Made with ❤️ at TinkerHub Useless Projects 
+
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
