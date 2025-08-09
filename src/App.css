@@ -1,0 +1,32 @@
+/* Text visibility fixes - ensuring all text is visible on dark background */
+
+/* Ensure text visibility - override any conflicting styles */
+body, .app, .app * {
+  color: #e6eef8 !important;
+}
+
+/* Dark background override */
+body {
+  background: linear-gradient(180deg,#071023 0%, #071a2a 100%) !important;
+  margin: 0 !important;
+}
+
+/* Fix white text on light backgrounds */
+.card, .dish-card, .placeholder {
+  background: rgba(11, 18, 32, 0.8) !important;
+  color: #e6eef8 !important;
+}
+
+/* Ensure buttons are visible */
+.buttons button {
+  background: #ff7a59 !important;
+  color: #10111a !important;
+  border: none !important;
+}
+
+/* Fix select dropdown */
+select, input {
+  background: rgba(255,255,255,0.03) !important;
+  color: #e6eef8 !important;
+  border: 1px solid rgba(255,255,255,0.04) !important;
+}
