@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "private": true,
   "description": "An AI-powered weird food suggestion app that matches chaotic dishes to your mood",
-  "homepage": "https:github.com/sanjay-sanju-03/Mood-Menu",
+  "homepage": "https://sanjay-sanju-03.github.io/Mood-Menu/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",

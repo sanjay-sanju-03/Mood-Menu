@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.com/sanjay-sanju-03/Mood-Menu/static/css/main.0e717c66.css",
+    "main.js": "/github.com/sanjay-sanju-03/Mood-Menu/static/js/main.6bba0f5b.js",
+    "index.html": "/github.com/sanjay-sanju-03/Mood-Menu/index.html",
+    "main.0e717c66.css.map": "/github.com/sanjay-sanju-03/Mood-Menu/static/css/main.0e717c66.css.map",
+    "main.6bba0f5b.js.map": "/github.com/sanjay-sanju-03/Mood-Menu/static/js/main.6bba0f5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e717c66.css",
+    "static/js/main.6bba0f5b.js"
+  ]
+}
